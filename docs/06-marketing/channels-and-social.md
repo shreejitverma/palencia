@@ -95,6 +95,8 @@ This document stays the cross-channel overview; the playbooks govern execution d
 - **Content type:** Cross-posted best-of Instagram plus Facebook-native proof (customer stories, milestones, education); reviews/recommendations actively answered; Messenger at concierge standard.
 - **Cadence:** `[2-3 posts/week] TODO:` confirm.
 - **KPIs:** Review volume and rating, response time, page-driven assisted conversions.
+- **Do's:** Keep business details current and answer every review and Messenger inquiry at concierge standard; respond generously to critical reviews.
+- **Don'ts:** Don't let the page go dormant (a dead page fails the legitimacy check); never fabricate, gate, or suppress reviews.
 - **Deep dive:** [Facebook & Meta Ads Playbook](playbooks/facebook.md).
 
 ### 3.5 YouTube - the research library
@@ -103,6 +105,8 @@ This document stays the cross-channel overview; the playbooks govern execution d
 - **Content type:** 8-15 min search-first guides, Shorts cut from long-form, craft and certification proof films, customer stories.
 - **Cadence:** `[2 long-form/month + 2-3 Shorts/week] TODO:` confirm capacity.
 - **KPIs:** Watch time and retention, views from search, guide downloads, assisted conversions and branded-search lift.
+- **Do's:** Answer the exact questions buyers search, honestly and with a named expert on camera; caption every video; ship seasonal videos 8-12 weeks early so they rank in time.
+- **Don'ts:** No clickbait thumbnails that overpromise; don't publish thin videos just to hit cadence; don't judge YouTube on last-click conversions.
 - **Deep dive:** [YouTube Playbook](playbooks/youtube.md).
 
 ---
