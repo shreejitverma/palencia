@@ -23,11 +23,26 @@ This document turns the [Marketing Strategy](marketing-strategy.md) into concret
 
 Every channel expresses one identity — see [Brand Guidelines](../01-brand/brand-guidelines.md) — and hands warm leads to the owned relationship engine in [CRM & Clienteling](../04-sales-cx/crm-and-clienteling.md).
 
+### Deep-dive platform playbooks
+
+The major platforms have full end-to-end playbooks covering organic strategy, paid architecture, creative, measurement, testing, and compliance.
+This document stays the cross-channel overview; the playbooks govern execution detail.
+
+| Playbook | Covers |
+|---|---|
+| [Instagram Playbook](playbooks/instagram.md) | Profile foundations, Reels/Stories/carousels, DM concierge, shopping, collabs |
+| [Facebook & Meta Ads Playbook](playbooks/facebook.md) | Organic trust layer plus the full Meta Ads architecture (pixel/CAPI, catalog, campaigns, audiences, creative, measurement) for Facebook and Instagram paid |
+| [YouTube Playbook](playbooks/youtube.md) | Long-form education, Shorts, video SEO, YouTube advertising |
+| [TikTok Playbook](playbooks/tiktok.md) | Education-led short video, creator collabs, Spark Ads, TikTok search |
+| [Google Ads Playbook](playbooks/google-ads.md) | Search (brand/non-brand), Shopping/Performance Max, Merchant Center feed, Demand Gen, bidding, measurement |
+
 ## 2. Channel-mix overview
 
 | Channel | Primary funnel role | Demand type | Primary KPI |
 |---|---|---|---|
 | **Instagram** | Awareness → consideration | Create | Reach, saves, profile→site clicks |
+| **Facebook** | Consideration (trust check) + paid engine | Create + capture | Review rating/volume, paid CPA/ROAS |
+| **YouTube** | Consideration (deep research) | Create | Watch time, guide downloads, assisted conversions |
 | **Pinterest** | Awareness → consideration (high-intent discovery) | Create + capture | Outbound clicks, assisted conversions |
 | **TikTok** | Awareness (education + culture) | Create | Views, watch-through, follows |
 | **Paid search** | Purchase (capture) | Capture | Conversion, ROAS, CAC |
@@ -53,6 +68,7 @@ Every channel expresses one identity — see [Brand Guidelines](../01-brand/bran
 - **KPIs:** Reach & new-follower growth, save/share rate (intent signals), profile→site clicks, Story reply/DM volume.
 - **Do's:** Show the actual certificate and craftsmanship; use real customers and real hands; reply to every DM like a concierge; keep captions warm, plain, and honest.
 - **Don'ts:** No stock-photo perfection that misrepresents a piece; no invented scarcity ("only 2 left!"); no engagement-bait; never imply a grade we can't document.
+- **Deep dive:** [Instagram Playbook](playbooks/instagram.md).
 
 ### 3.2 Pinterest — the quiet high-intent workhorse
 
@@ -71,6 +87,23 @@ Every channel expresses one identity — see [Brand Guidelines](../01-brand/bran
 - **KPIs:** Views, watch-through/completion, follows, saves, comment sentiment.
 - **Do's:** Lead with a hook and teach something real; be transparent (honesty *is* the differentiator and it performs); use captions/subtitles.
 - **Don'ts:** Don't chase trends that clash with a trust brand; don't overproduce into feeling like an ad; don't make claims you can't back.
+- **Deep dive:** [TikTok Playbook](playbooks/tiktok.md).
+
+### 3.4 Facebook - the trust check
+
+- **Role in funnel:** Consideration. Gift buyers, older self-purchasers, and the family a ring buyer consults still vet a jeweler here; the page is a legitimacy check more than a reach channel. It is also home base for the Meta Ads system.
+- **Content type:** Cross-posted best-of Instagram plus Facebook-native proof (customer stories, milestones, education); reviews/recommendations actively answered; Messenger at concierge standard.
+- **Cadence:** `[2-3 posts/week] TODO:` confirm.
+- **KPIs:** Review volume and rating, response time, page-driven assisted conversions.
+- **Deep dive:** [Facebook & Meta Ads Playbook](playbooks/facebook.md).
+
+### 3.5 YouTube - the research library
+
+- **Role in funnel:** Consideration. Long-form education wins the weeks-long research phase; the second-largest search engine for buyer questions ("GIA vs IGI," "how much to spend").
+- **Content type:** 8-15 min search-first guides, Shorts cut from long-form, craft and certification proof films, customer stories.
+- **Cadence:** `[2 long-form/month + 2-3 Shorts/week] TODO:` confirm capacity.
+- **KPIs:** Watch time and retention, views from search, guide downloads, assisted conversions and branded-search lift.
+- **Deep dive:** [YouTube Playbook](playbooks/youtube.md).
 
 ---
 
@@ -84,6 +117,7 @@ Every channel expresses one identity — see [Brand Guidelines](../01-brand/bran
 - **KPIs:** Conversion rate, ROAS, CAC/payback, impression share on priority terms.
 - **Do's:** Bid to protect brand terms; send high-intent clicks to matching category/product pages; feature honest price, certification, and free insured shipping in copy; use negatives aggressively.
 - **Don'ts:** Don't send ad clicks to the homepage; don't advertise stock we can't fulfill; don't overspend on broad informational terms better served by [Content & SEO](content-and-seo.md).
+- **Deep dive:** [Google Ads Playbook](playbooks/google-ads.md).
 
 ### 4.2 Shopping / product listing ads — the visual capture layer
 
@@ -93,6 +127,7 @@ Every channel expresses one identity — see [Brand Guidelines](../01-brand/bran
 - **KPIs:** ROAS, CAC, impression share, feed disapproval rate (keep near zero).
 - **Do's:** Keep the feed accurate and rich; include GIA/IGI and service terms where allowed; segment by margin/intent.
 - **Don'ts:** Don't run a stale or inaccurate feed; don't ignore disapprovals; don't misrepresent price/availability.
+- **Deep dive:** [Google Ads Playbook](playbooks/google-ads.md#5-merchant-center--the-shopping-feed).
 
 ### 4.3 Paid social — create demand & retarget
 
@@ -102,6 +137,7 @@ Every channel expresses one identity — see [Brand Guidelines](../01-brand/bran
 - **KPIs:** CPA/CAC, ROAS, view-through, creative fatigue (frequency, CTR decay).
 - **Do's:** Separate prospecting vs retargeting budgets; refresh creative often; retarget with *trust* assets (reviews, guarantees), not just discounts.
 - **Don'ts:** Don't blast one audience; don't rely on discounting a premium-trust brand; don't retarget people who already bought the same item.
+- **Deep dive:** [Facebook & Meta Ads Playbook](playbooks/facebook.md) (Meta), [TikTok Playbook](playbooks/tiktok.md#6-tiktok-advertising) (TikTok), [Google Ads Playbook](playbooks/google-ads.md#7-demand-gen--youtube-campaigns) (Demand Gen/YouTube).
 
 ---
 
@@ -187,6 +223,11 @@ Owned channels are the highest-ROI engine for a months-long buying cycle — ful
 ## Related documents
 - [Marketing Strategy](marketing-strategy.md)
 - [Content & SEO](content-and-seo.md)
+- [Instagram Playbook](playbooks/instagram.md)
+- [Facebook & Meta Ads Playbook](playbooks/facebook.md)
+- [YouTube Playbook](playbooks/youtube.md)
+- [TikTok Playbook](playbooks/tiktok.md)
+- [Google Ads Playbook](playbooks/google-ads.md)
 - [CRM & Clienteling](../04-sales-cx/crm-and-clienteling.md)
 - [Brand Guidelines](../01-brand/brand-guidelines.md)
 - [Documentation Home](../../README.md)
