@@ -2,12 +2,12 @@
 
 > Who Palencia Diamonds is, what we sell, and how we're structured — the single starting point for understanding the business.
 
-| | |
-|---|---|
-| **Owner** | Office of the Founder / CEO |
-| **Last reviewed** | 2026-07-16 |
-| **Review cadence** | Annually |
-| **Status** | Active |
+|                    |                             |
+| ------------------ | --------------------------- |
+| **Owner**          | Office of the Founder / CEO |
+| **Last reviewed**  | 2026-07-16                  |
+| **Review cadence** | Annually                    |
+| **Status**         | Active                      |
 
 ---
 
@@ -19,15 +19,15 @@ We sell the pieces that mark life's most meaningful moments — engagements, wed
 
 ## 2. What we sell
 
-| Category | Includes |
-|---|---|
-| **Engagement rings** | Solitaire, halo, three-stone, hidden halo, custom |
-| **Wedding bands** | Classic, pavé, eternity, matching sets |
-| **Necklaces** | Chains, station, tennis, rivière |
-| **Earrings** | Studs, hoops, drops, dangles |
-| **Bracelets** | Tennis, bangles, station |
-| **Pendants & charms** | Solitaire, halo, cluster, initials |
-| **Custom design** | Made-to-order rings with customer choice of material, stone, and carat |
+| Category              | Includes                                                               |
+| --------------------- | ---------------------------------------------------------------------- |
+| **Engagement rings**  | Solitaire, halo, three-stone, hidden halo, custom                      |
+| **Wedding bands**     | Classic, pavé, eternity, matching sets                                 |
+| **Necklaces**         | Chains, station, tennis, rivière                                       |
+| **Earrings**          | Studs, hoops, drops, dangles                                           |
+| **Bracelets**         | Tennis, bangles, station                                               |
+| **Pendants & charms** | Solitaire, halo, cluster, initials                                     |
+| **Custom design**     | Made-to-order rings with customer choice of material, stone, and carat |
 
 Every center stone comes with an independent grading report from **GIA** or **IGI**. Pieces are hand-set in **gold** (yellow, white, rose) and **platinum**.
 
@@ -63,20 +63,21 @@ At a glance, the core functions are:
 
 ## 6. Company facts
 
-| Attribute | Detail |
-|---|---|
+| Attribute         | Detail                      |
+| ----------------- | --------------------------- |
 | Legal entity name | `TODO: [Legal entity name]` |
-| Headquarters | `TODO: [City, State/Country]` |
-| Founded | `TODO: [Year]` |
-| Founder(s) | `TODO: [Name(s)]` |
-| Primary market(s) | `TODO: [Countries served]` |
-| Website | www.palenciadiamonds.com |
+| Headquarters      | New York, USA               |
+| Founded           | `TODO: [Year]`              |
+| Founder(s)        | `TODO: [Name(s)]`           |
+| Primary market(s) | United States               |
+| Website           | www.palenciadiamonds.com    |
 
 > `TODO:` Fill in the company facts above so this overview is complete.
 
 ---
 
 ## Related documents
+
 - [Mission, Vision & Values](mission-vision-values.md)
 - [Strategic Plan](strategic-plan.md)
 - [Brand Positioning](../01-brand/brand-positioning.md)

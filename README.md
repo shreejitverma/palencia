@@ -77,6 +77,11 @@ Anything in `[brackets]` marked `TODO:` is a placeholder awaiting company-specif
 | [Marketing Strategy](docs/06-marketing/marketing-strategy.md) | How we grow demand |
 | [Content & SEO](docs/06-marketing/content-and-seo.md) | Owned content and search |
 | [Channels & Social](docs/06-marketing/channels-and-social.md) | Where and how we show up |
+| [Instagram Playbook](docs/06-marketing/playbooks/instagram.md) | End-to-end organic, DM concierge, and creative strategy |
+| [Facebook & Meta Ads Playbook](docs/06-marketing/playbooks/facebook.md) | Organic trust layer + the full Meta Ads engine |
+| [YouTube Playbook](docs/06-marketing/playbooks/youtube.md) | Long-form education, Shorts, video SEO, and YouTube ads |
+| [TikTok Playbook](docs/06-marketing/playbooks/tiktok.md) | Honest short video, creators, and Spark Ads |
+| [Google Ads Playbook](docs/06-marketing/playbooks/google-ads.md) | Search, Shopping/PMax, feed, bidding, and measurement |
 
 ### 👥 07 — People & Culture
 | Document | What it covers |

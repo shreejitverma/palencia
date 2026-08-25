@@ -19,7 +19,7 @@ It sits above the channel- and discipline-specific playbooks:
 
 - **What we say and stand for** → [Brand Positioning](../01-brand/brand-positioning.md)
 - **How we get found and educate** → [Content & SEO](content-and-seo.md)
-- **Where we show up and spend** → [Channels & Social](channels-and-social.md)
+- **Where we show up and spend** → [Channels & Social](channels-and-social.md), with per-platform depth in the [Instagram](playbooks/instagram.md), [Facebook & Meta Ads](playbooks/facebook.md), [YouTube](playbooks/youtube.md), [TikTok](playbooks/tiktok.md), and [Google Ads](playbooks/google-ads.md) playbooks
 - **How we retain and delight** → [CRM & Clienteling](../04-sales-cx/crm-and-clienteling.md)
 
 Everything here serves one measurable end from our vision: **the percentage of customers who would buy from us again and send us their family and friends.**
