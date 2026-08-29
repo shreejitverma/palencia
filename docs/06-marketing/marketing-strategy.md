@@ -214,6 +214,9 @@ We measure the funnel end-to-end, not just last click. Attribution for a long, m
 
 ## Related documents
 - [Brand Positioning](../01-brand/brand-positioning.md)
+- [Ad Tech & Paid Media Pipeline](ad-tech-and-paid-media-pipeline.md)
+- [Marketing Mix Modeling Implementation](marketing-mix-modeling-implementation.md)
+- [Financial Modeling & Pricing Strategy](financial-modeling-and-pricing-strategy.md)
 - [Content & SEO](content-and-seo.md)
 - [Channels & Social](channels-and-social.md)
 - [CRM & Clienteling](../04-sales-cx/crm-and-clienteling.md)

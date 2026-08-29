@@ -75,6 +75,14 @@ Anything in `[brackets]` marked `TODO:` is a placeholder awaiting company-specif
 | Document | What it covers |
 |---|---|
 | [Marketing Strategy](docs/06-marketing/marketing-strategy.md) | How we grow demand |
+| [Ad Tech & Paid Media Pipeline](docs/06-marketing/ad-tech-and-paid-media-pipeline.md) | End-to-end ad systems, ML ranking, CAPI & auctions |
+| [Marketing Mix Modeling Implementation](docs/06-marketing/marketing-mix-modeling-implementation.md) | Bayesian modeling, Incrementality geo-testing & true ROAS |
+| [Financial Modeling & Pricing Strategy](docs/06-marketing/financial-modeling-and-pricing-strategy.md) | Unit economics, LTV:CAC, margin targets & Target CPA |
+| [Creative Strategy & Briefing](docs/06-marketing/creative-strategy-and-briefing.md) | Direct response video, hook matrix & creator briefs |
+| [Landing Page & CRO Playbook](docs/06-marketing/landing-page-and-cro-playbook.md) | High-converting funnels, PDP architecture & quiz engines |
+| [Lifecycle & Retention Playbook](docs/06-marketing/lifecycle-and-retention-playbook.md) | 10-year LTV curve, anniversary engine & VIP clienteling |
+| [Influencer & PR Playbook](docs/06-marketing/influencer-and-pr-playbook.md) | Creator outreach, high-value loan agreements & FTC compliance |
+| [Growth Operations & Analytics SOP](docs/06-marketing/growth-operations-and-analytics-sop.md) | Daily pacing, weekly DCT graduation & monthly MMM runs |
 | [Content & SEO](docs/06-marketing/content-and-seo.md) | Owned content and search |
 | [Channels & Social](docs/06-marketing/channels-and-social.md) | Where and how we show up |
 | [Instagram Playbook](docs/06-marketing/playbooks/instagram.md) | End-to-end organic, DM concierge, and creative strategy |

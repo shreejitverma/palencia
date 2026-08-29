@@ -226,6 +226,7 @@ Owned channels are the highest-ROI engine for a months-long buying cycle — ful
 
 ## Related documents
 - [Marketing Strategy](marketing-strategy.md)
+- [Ad Tech & Paid Media Pipeline](ad-tech-and-paid-media-pipeline.md)
 - [Content & SEO](content-and-seo.md)
 - [Instagram Playbook](playbooks/instagram.md)
 - [Facebook & Meta Ads Playbook](playbooks/facebook.md)
